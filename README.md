@@ -1,4 +1,4 @@
-# coffee_card
+# simple-card
 
 A new Flutter project.
 
