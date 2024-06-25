@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "584322032495",
+    "project_id": "calculator-30523",
+    "storage_bucket": "calculator-30523.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584322032495:android:00b06da777fbcff36ffe9a",
+        "android_client_info": {
+          "package_name": "com.ntaganira.calculator"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAN2Z5D95yhCx2tbw7LKHJZx6zaqe1aHvE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
