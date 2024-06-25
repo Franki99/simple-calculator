@@ -4,7 +4,7 @@
 
 This project is a simple calculator app built using Flutter and Firebase Authentication. The app includes a basic arithmetic calculator and a navigation drawer with options to view the Home, About pages, and to log out. The app features a clean and intuitive user interface with customizable appearance for active and inactive tabs in the navigation menu.
 
-![Calculator App](lib\images\Calculator-Page.jpg)
+![Calculator App](./lib/images/Calculator-Page.jpg)
 
 ## Features
 
@@ -14,7 +14,7 @@ This project is a simple calculator app built using Flutter and Firebase Authent
 - Firebase Authentication for user login and logout
 - Navigation drawer with active tab highlighting
 
-![Navigation Drawer](lib\images\Menu.jpg), ![Login Page](lib\images\Login-Page.jpg), ![Signup Page](lib\images\signup-Page.jpg)
+![Navigation Drawer](./lib/images/Menu.jpg), ![Login Page](./lib/images/Login-Page.jpg), ![Signup Page](./lib/images/signup-Page.jpg)
 
 ## Getting Started
 
